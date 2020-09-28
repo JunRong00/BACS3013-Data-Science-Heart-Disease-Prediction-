@@ -1,5 +1,5 @@
 # BACS3013-Data-Science-Heart-Disease-Prediction-RDS2G3
-# We are students of Tunku Abdul Rahman University College (TARUC) and are currently pursuing second year in Bachelor of Computer Science (Honours) in Data Science. 
+# I am a student of Tunku Abdul Rahman University College (TARUC) and are currently pursuing second year in Bachelor of Computer Science (Honours) in Data Science. 
 # In this semester, we are taking a subject called Data Science and are required to apply all the data science skills in this assignment such as data cleaning, data pre-processing, data normalisation, and data modelling. 
 # Finally, we will need to choose the best model among 6 models and explain the steps of deployment.
 
